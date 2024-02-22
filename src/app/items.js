@@ -1,0 +1,56 @@
+
+export const items = [
+  {
+    id: 1,
+    name: 'Product 1',
+    price: 10.99,
+    description: 'Description of product 1',
+    image: "https://dummyimage.com/420x260",
+  },
+  {
+    id: 2,
+    name: 'Product 2',
+    price: 15.99,
+    description: 'Description of product 2',
+    image: "https://dummyimage.com/420x260",  },
+    {
+      id: 3,
+      name: 'Product 1',
+      price: 10.99,
+      description: 'Description of product 1',
+      image: "https://dummyimage.com/420x260",
+    },
+    {
+      id: 4,
+      name: 'Product 2',
+      price: 15.99,
+      description: 'Description of product 2',
+      image: "https://dummyimage.com/420x260",  },
+      {
+        id: 5,
+        name: 'Product 1',
+        price: 10.99,
+        description: 'Description of product 1',
+        image: "https://dummyimage.com/420x260",
+      },
+      {
+        id: 6,
+        name: 'Product 2',
+        price: 15.99,
+        description: 'Description of product 2',
+        image: "https://dummyimage.com/420x260",  },
+        {
+          id: 7,
+          name: 'Product 1',
+          price: 10.99,
+          description: 'Description of product 1',
+          image: "https://dummyimage.com/420x260",
+        },
+        {
+          id: 8,
+          name: 'Product 2',
+          price: 15.99,
+          description: 'Description of product 2',
+          image: "https://dummyimage.com/420x260",  },
+  // Add more items as needed
+];
