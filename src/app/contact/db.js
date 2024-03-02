@@ -1,4 +1,4 @@
-import dbConnect from '../contact/dbConnect';
+import dbConnect from './dbConnect';
 import Contact from '../contact/contact';
 
 export default async function handler(req, res) {

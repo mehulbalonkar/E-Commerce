@@ -1,0 +1,8 @@
+const {Schema, models}  = require("mongoose")
+const productSchema = new Schema({
+    name: String,
+    email: String,
+    message: String,
+    });
+    const product=models?.Product || models("Product", productSchema)
+    export default product;
